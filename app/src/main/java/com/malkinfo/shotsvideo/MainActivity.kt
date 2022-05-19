@@ -13,7 +13,7 @@ import com.malkinfo.shotsvideo.adapter.VideoAdapter
 import com.malkinfo.shotsvideo.model.VideoModel
 
 class MainActivity : AppCompatActivity() {
-
+/*otiaisantonakayokusitai*/
     lateinit var viewPager2:ViewPager2
     lateinit var adapter:VideoAdapter
 
