@@ -13,6 +13,7 @@ import com.malkinfo.shotsvideo.adapter.VideoAdapter
 import com.malkinfo.shotsvideo.model.VideoModel
 
 //aiueo
+//kakikukeko
 
 class MainActivity : AppCompatActivity() {
     lateinit var viewPager2:ViewPager2
