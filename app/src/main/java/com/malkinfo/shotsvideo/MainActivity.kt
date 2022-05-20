@@ -12,6 +12,8 @@ import com.google.firebase.ktx.Firebase
 import com.malkinfo.shotsvideo.adapter.VideoAdapter
 import com.malkinfo.shotsvideo.model.VideoModel
 
+//aiueo
+
 class MainActivity : AppCompatActivity() {
     lateinit var viewPager2:ViewPager2
     lateinit var adapter:VideoAdapter
